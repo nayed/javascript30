@@ -10,3 +10,5 @@ Following Wes Bos' 30 Day Vanilla JS Coding Challenge
 ### Day 04 - [Array Cardio Day 1](https://nayed.github.io/javascript30/04-Array-Cardio-Day-1)
 
 ### Day 05 - [Flex Panel Gallery](https://nayed.github.io/javascript30/05-Flex-Panel-Gallery)
+
+### Day 06 - [Type Ahead](https://nayed.github.io/javascript30/06-Type-Ahead)
