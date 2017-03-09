@@ -19,3 +19,5 @@ Following Wes Bos' 30 Day Vanilla JS Coding Challenge
 ### Day 07 - [Array Cardio Day 2](https://nayed.github.io/javascript30/07-Array-Cardio-Day-2)
 
 ### Day 08 - [Fun with HTML5 Canvas](https://nayed.github.io/javascript30/08-Fun-with-HTML5-Canvas)
+
+### Day 09 - [Dev Tools Domination](https://nayed.github.io/javascript30/09-Dev-Tools-Domination)
