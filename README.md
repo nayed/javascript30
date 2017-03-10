@@ -21,3 +21,5 @@ Following Wes Bos' 30 Day Vanilla JS Coding Challenge
 ### Day 08 - [Fun with HTML5 Canvas](https://nayed.github.io/javascript30/08-Fun-with-HTML5-Canvas)
 
 ### Day 09 - [Dev Tools Domination](https://nayed.github.io/javascript30/09-Dev-Tools-Domination)
+
+### Day 10 - [Hold Shift and Check Checkboxes](https://nayed.github.io/javascript30/10-Hold-Shift-and-Check-Checkboxes)
