@@ -1,6 +1,8 @@
 ![image day 08](image.png)
 
-Following Wes Bos' 30 Day Vanilla JS Coding Challenge
+Following awesome Wes Bos' [30 Day Vanilla JS Coding Challenge](https://javascript30.com)
+
+No frameworks, no libraries just pure Javascript 😄
 
 ***
 
