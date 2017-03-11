@@ -23,3 +23,5 @@ Following Wes Bos' 30 Day Vanilla JS Coding Challenge
 ### Day 09 - [Dev Tools Domination](https://nayed.github.io/javascript30/09-Dev-Tools-Domination)
 
 ### Day 10 - [Hold Shift and Check Checkboxes](https://nayed.github.io/javascript30/10-Hold-Shift-and-Check-Checkboxes)
+
+### Day 11 - [Custom Video Player](https://nayed.github.io/javascript30/11-Custom-Video-Player)
