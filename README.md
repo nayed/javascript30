@@ -27,3 +27,7 @@ No frameworks, no libraries just pure Javascript 😄
 ### Day 10 - [Hold Shift and Check Checkboxes](https://nayed.github.io/javascript30/10-Hold-Shift-and-Check-Checkboxes)
 
 ### Day 11 - [Custom Video Player](https://nayed.github.io/javascript30/11-Custom-Video-Player)
+
+### Day 12 - [Key Sequence Detection](https://nayed.github.io/javascript30/12-Key-Sequence-Detection)
+
+### Day 13 - [Slide in on Scroll](https://nayed.github.io/javascript30/13-Slide-in-on-Scroll)
