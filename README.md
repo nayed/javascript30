@@ -31,3 +31,5 @@ No frameworks, no libraries just pure Javascript 😄
 #### Day 12 - [Key Sequence Detection](https://nayed.github.io/javascript30/12-Key-Sequence-Detection)
 
 #### Day 13 - [Slide in on Scroll](https://nayed.github.io/javascript30/13-Slide-in-on-Scroll)
+
+### Day 14 - [JavaScript References VS Copying](https://nayed.github.io/javascript30/14-JavaScript-References-VS-Copying)
