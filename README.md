@@ -32,4 +32,6 @@ No frameworks, no libraries just pure Javascript 😄
 
 #### Day 13 - [Slide in on Scroll](https://nayed.github.io/javascript30/13-Slide-in-on-Scroll)
 
-### Day 14 - [JavaScript References VS Copying](https://nayed.github.io/javascript30/14-JavaScript-References-VS-Copying)
+#### Day 14 - [JavaScript References VS Copying](https://nayed.github.io/javascript30/14-JavaScript-References-VS-Copying)
+
+#### Day 15 - [LocalStorage](https://nayed.github.io/javascript30/15-LocalStorage)
