@@ -20,6 +20,7 @@
       <li>Loading Tapas...</li>
     </ul>
     <button id="check">Check All</button>
+    <button id="uncheck">Uncheck All</button>
     <form class="add-items">
       <input type="text" name="item" placeholder="Item Name" required>
       <input type="submit" value="+ Add Item">
@@ -30,6 +31,7 @@
     const addItems = document.querySelector('.add-items')
     const itemsList = document.querySelector('.plates')
     const btnCheck = document.querySelector('#check')
+    const btnUncheck = document.querySelector('#uncheck')
 
     const items = JSON.parse(localStorage.getItem('items')) || []
 
@@ -83,6 +85,17 @@
     }
 
     btnCheck.addEventListener('click', checkItems)
+
+    // uncheck all
+    function unCheckItems() {
+      for (let item of items) {
+        item.done = false
+      }
+      localStorage.setItem('items', JSON.stringify(items))
+      populateList(items, itemsList)
+    }
+
+    btnUncheck.addEventListener('click', unCheckItems)
   </script>
 </body>
 </html>
