@@ -37,3 +37,5 @@ No frameworks, no libraries just pure Javascript 😄
 #### Day 15 - [LocalStorage](https://nayed.github.io/javascript30/15-LocalStorage)
 
 #### Day 16 - [Mouse Move Shadow](https://nayed.github.io/javascript30/16-Mouse-Move-Shadow])
+
+#### Day 17 - [Sort Without Articles](https://nayed.github.io/javascript30/17-Sort-Without-Articles)
