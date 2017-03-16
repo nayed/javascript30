@@ -35,3 +35,5 @@ No frameworks, no libraries just pure Javascript 😄
 #### Day 14 - [JavaScript References VS Copying](https://nayed.github.io/javascript30/14-JavaScript-References-VS-Copying)
 
 #### Day 15 - [LocalStorage](https://nayed.github.io/javascript30/15-LocalStorage)
+
+#### Day 16 - [Mouse Move Shadow](https://nayed.github.io/javascript30/16-Mouse-Move-Shadow])
